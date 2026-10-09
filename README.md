@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique
 
-Commentaire d'un texte de droit français : **loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique** (JORF du 13 juillet 1991). Il couvre **101 articles** répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique** (JORF du 13 juillet 1991). Il couvre **122 articles** (101 articles en vigueur et 21 articles abrogés, transférés, hors vigueur ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 13 juin 2026).
 

@@ -384,6 +384,22 @@ L'article 44 fixe le régime du recouvrement des sommes dues à l'Etat au titre 
 
 Le deuxième alinéa impose l'émission d'un titre de perception dans les cinq ans à compter de la décision de justice ou de l'acte mettant fin à la mission d'aide juridictionnelle. Ce délai encadre l'action de l'administration ; au-delà, aucun titre ne peut être émis. Le troisième alinéa soumet l'action en recouvrement à la prescription de l'article L. 274 du livre des procédures fiscales. La note précise que cette rédaction, issue de la loi n° 2020-1721 du 29 décembre 2020, est entrée en vigueur le 1er janvier 2022 et s'applique aux actions dont le délai de prescription commence à courir ou est interrompu à compter de cette date.
 
+### Article 45
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1998-12-22)
+
+L'article 45 appartenait au chapitre II du titre V de la première partie, consacré aux frais couverts par l'aide juridictionnelle. La source ne le mentionne plus que comme abrogé à compter du 22 décembre 1998, sans indiquer le texte abrogatif ni reproduire sa rédaction antérieure, que le commentaire ne reconstitue pas. Le chapitre conserve, autour de lui, les règles en vigueur sur l'étendue des frais couverts (article 40), la condamnation aux dépens du bénéficiaire (article 42) ou de son adversaire (article 43) et le recouvrement des sommes dues à l'Etat (article 44).
+
+### Article 46
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1998-12-22)
+
+L'article 46, qui suivait l'article 45 dans le chapitre relatif aux frais couverts par l'aide juridictionnelle, est également abrogé à compter du 22 décembre 1998, à la même date que les articles 45 et 49 ; la source ne précise pas le texte qui a opéré l'abrogation. Aucun contenu n'en subsiste dans la version consolidée. Le régime des frais repose désormais sur les articles 40 à 44, 47 et 48 du même chapitre, commentés à leur place.
+
 ### Article 47
 
 **Texte de la disposition:**
@@ -403,6 +419,14 @@ La règle s'explique par le régime propre des frais de justice pénale, dont l'
 L'article 48 règle la situation de la partie civile bénéficiaire de l'aide. La juridiction de jugement met à la charge du condamné le remboursement de la contribution versée par l'Etat à l'avocat de la partie civile. La charge de l'aide est ainsi transférée sur l'auteur de l'infraction, ce qui réalise une forme de réparation au profit de la collectivité.
 
 Comme dans l'article 43, le juge peut, pour des considérations tirées de l'équité ou de la situation économique du condamné, le dispenser totalement ou partiellement de ce remboursement. La règle concerne notamment les victimes admises à l'aide sans condition de ressources en application de l'article 9-2. Le texte ne vise que la contribution versée à l'avocat ; les autres frais relèvent du régime des frais de justice pénale.
+
+### Article 49
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1998-12-22)
+
+L'article 49 clôturait le chapitre II du titre V (frais couverts par l'aide juridictionnelle), après les articles 47 et 48 relatifs à la matière pénale et à la partie civile. Il est abrogé à compter du 22 décembre 1998 selon la source, qui n'en reproduit pas le texte. Les dispositions relatives au retrait de l'aide, qui suivent sous le titre VI (articles 50 à 52-1), ne sont pas affectées par cette abrogation.
 
 #### TITRE VI — Le retrait de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles
 

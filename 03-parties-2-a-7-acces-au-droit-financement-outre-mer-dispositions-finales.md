@@ -162,7 +162,73 @@ L'article 61, seul article d'un titre intitulé « L'aide à la consultation » 
 
 La règle comble l'intervalle pendant lequel le justiciable résidant en France prépare une demande destinée à un autre Etat membre : l'aide juridictionnelle étrangère n'est pas encore accordée, et la consultation est prise en charge selon les règles de la deuxième partie de la loi (art. 53, 3°, et art. 58). Les articles 69-2 et 69-17 en excluent l'application en Polynésie française et en Nouvelle-Calédonie, ce qui est cohérent avec l'exclusion de l'article 3-1.
 
+### Article 62
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1998-12-22)
+
+L'article 62 relevait du titre Ier de la deuxième partie, consacré à l'aide à la consultation. La source le signale comme abrogé à compter du 22 décembre 1998, sans mention du texte abrogatif. Dans ce titre ne subsiste en vigueur que l'article 61, relatif à la consultation d'un avocat dans les litiges transfrontaliers mentionnés à l'article 3-1 ; l'organisation générale de l'aide à l'accès au droit figure aux articles 53 à 60.
+
+#### TITRE II — L'assistance au cours de procédures non juridictionnelles
+
+### Article 63
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1998-12-22)
+
+L'article 63 relevait, selon les intitulés de la source, du titre II de la deuxième partie, consacré à « l'assistance au cours de procédures non juridictionnelles ». Il est abrogé à compter du 22 décembre 1998, sans que la source indique le texte abrogatif ; son intitulé de titre n'apparaît plus que comme repère historique. La matière de l'assistance par un avocat hors procédure juridictionnelle relève aujourd'hui, dans la loi, de l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles, dont le domaine est défini à l'article 11-2.
+
 #### Troisième partie — L'aide à l'intervention de l'avocat dans les procédures non juridictionnelles
+
+### Article 64
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2023-01-01 par LOI n°2022-1726 du 30 décembre 2022 - art. 189)
+
+L'article 64 ouvrait la troisième partie, consacrée à l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles. Selon la source, il est abrogé à compter du 1er janvier 2023 par l'article 189 de la loi n° 2022-1726 du 30 décembre 2022, en même temps que les articles 64-1, 64-1-1, 64-1-2 et 64-3. Son texte n'est pas reproduit. Cette abrogation explique que l'article 64-4, seul article de la troisième partie encore en vigueur, renvoie à des mesures « mentionnées aux articles qui précèdent » qui ne sont plus énumérées dans cette partie ; le domaine de l'aide à l'intervention de l'avocat est désormais fixé par l'article 11-2.
+
+### Article 64-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2023-01-01 par LOI n°2022-1726 du 30 décembre 2022 - art. 189)
+
+L'article 64-1 faisait partie du bloc d'articles de la troisième partie abrogés à compter du 1er janvier 2023 par l'article 189 de la loi n° 2022-1726 du 30 décembre 2022. La source n'en conserve que le numéro et la mention de l'abrogation. Les renvois qui y seraient encore faits ailleurs doivent être lus à la lumière de cette abrogation et de la redéfinition du domaine de l'aide à l'intervention de l'avocat par l'article 11-2.
+
+### Article 64-1-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2023-01-01 par LOI n°2022-1726 du 30 décembre 2022 - art. 189)
+
+L'article 64-1-1, inséré à la suite de l'article 64-1 dans la troisième partie, est abrogé à la même date et par le même texte que lui : à compter du 1er janvier 2023, par l'article 189 de la loi n° 2022-1726 du 30 décembre 2022. La source ne reproduit pas son contenu. La numérotation à double tiret témoigne d'insertions successives dans cette partie avant sa refonte ; seul l'article 64-4 y subsiste aujourd'hui.
+
+### Article 64-1-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2023-01-01 par LOI n°2022-1726 du 30 décembre 2022 - art. 189)
+
+L'article 64-1-2 est le dernier des articles intercalés après l'article 64-1. Comme ce dernier et l'article 64-1-1, il est abrogé à compter du 1er janvier 2023 par l'article 189 de la loi n° 2022-1726 du 30 décembre 2022 selon la source, qui n'en donne plus le texte. Le commentaire se borne à le mentionner pour la complétude de la numérotation de la troisième partie.
+
+### Article 64-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2021-09-30 par Ordonnance n° 2019-950 du 11 septembre 2019 - art. 5 (VD))
+
+L'article 64-2 suit un sort distinct des autres articles de la troisième partie : selon la source, il est abrogé à compter du 30 septembre 2021 par l'article 5 de l'ordonnance n° 2019-950 du 11 septembre 2019. La mention « (VD) » accolée à la référence renvoie, dans les conventions de la base LEGI, à une vigueur différée de la disposition citée, ce qui est cohérent avec l'écart entre la date de l'ordonnance et celle de l'abrogation. Le contenu de l'article n'est pas reproduit par la source.
+
+### Article 64-3
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2023-01-01 par LOI n°2022-1726 du 30 décembre 2022 - art. 189)
+
+L'article 64-3 est abrogé à compter du 1er janvier 2023 par l'article 189 de la loi n° 2022-1726 du 30 décembre 2022, comme les articles 64 à 64-1-2. La source n'en conserve que le numéro. Il précédait immédiatement l'article 64-4, aujourd'hui seul article en vigueur de la troisième partie, dont le commentaire explique le renvoi devenu imprécis aux « articles qui précèdent ».
 
 ### Article 64-4
 
@@ -176,7 +242,7 @@ La règle comble l'intervalle pendant lequel le justiciable résidant en France 
 
 L'article 64-4, seul article subsistant de la troisième partie consacrée à l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles, renvoie au règlement intérieur de chaque barreau la détermination des modalités et du montant de la rétribution de l'avocat. Le deuxième alinéa permet au règlement de prévoir que les avocats désignés ou commis d'office interviennent à temps partiel au cours des mesures « mentionnées aux articles qui précèdent », selon des modalités fixées par convention avec l'ordre ; le dernier alinéa impose une évaluation annuelle de ces conventions par le Gouvernement.
 
-Le renvoi aux « articles qui précèdent » s'explique par l'histoire du texte : les articles de la troisième partie qui énuméraient les mesures concernées ne figurent plus dans la version consolidée, et le domaine de l'aide à l'intervention de l'avocat est désormais défini par l'article 11-2. L'article 64-4 doit donc être lu avec cet article et avec l'article 27, quatrième alinéa (dotation fonction du nombre de missions), et l'article 29, quatrième alinéa, qui prévoit le même mécanisme de conventions pour l'aide juridictionnelle.
+Le renvoi aux « articles qui précèdent » s'explique par l'histoire du texte : les articles de la troisième partie qui précédaient l'article 64-4 (articles 64 à 64-3) sont abrogés, la source ne les mentionnant plus qu'avec la date et le texte de leur abrogation, et le domaine de l'aide à l'intervention de l'avocat est désormais défini par l'article 11-2. L'article 64-4 doit donc être lu avec cet article et avec l'article 27, quatrième alinéa (dotation fonction du nombre de missions), et l'article 29, quatrième alinéa, qui prévoit le même mécanisme de conventions pour l'aide juridictionnelle.
 
 #### Cinquième partie
 
@@ -217,6 +283,14 @@ Cette règle de composition assure aux professionnels qui exécutent les mission
 L'article 67 pose le principe du financement par l'Etat de l'aide juridictionnelle, de l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles et de l'aide à la médiation. L'aide à l'accès au droit n'est pas mentionnée : son financement est partagé selon l'article 68.
 
 La disposition consacre la responsabilité financière de l'Etat pour l'aide au procès et ses prolongements. Elle s'articule avec les mécanismes de dotation et de paiement des articles 27 à 31 et avec l'affectation de la contribution pour l'aide juridique (art. 27-1 et 28). La mention de l'aide à la médiation renvoie notamment à l'article 11-1, qui prévoit la rétribution de l'avocat et une prise en charge partielle de celle du médiateur.
+
+### Article 67-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-12-31 par LOI n°2020-1721 du 29 décembre 2020 - art. 234)
+
+L'article 67-1 appartenait au titre II de la cinquième partie, relatif au financement de l'aide juridique, entre le principe du financement par l'Etat (article 67) et l'obligation de rendre compte imposée à l'Union nationale des caisses des règlements pécuniaires des avocats (article 67-2). La source le signale comme abrogé à compter du 31 décembre 2020 par l'article 234 de la loi n° 2020-1721 du 29 décembre 2020, sans reproduire son contenu.
 
 ### Article 67-2
 
@@ -272,6 +346,14 @@ La disposition complète l'article 57, 1°, qui permet au conseil départemental
 
 #### Sixième partie — Dispositions applicables en Polynésie française, à Mayotte et en Nouvelle-Calédonie
 
+### Article 69-5
+
+**Texte de la disposition:**
+
+> (Hors vigueur à compter du 2012-03-25)
+
+L'article 69-5 est placé par la source dans la sixième partie, relative à l'outre-mer, entre les dispositions applicables en Polynésie française. Il est signalé comme n'étant plus en vigueur à compter du 25 mars 2012, sans indication d'un texte abrogatif ; la source emploie à son égard la mention générale « hors vigueur ». Son contenu n'est pas reproduit. Sa disparition explique le saut de numérotation entre les articles 69-4 et 69-6 du titre consacré à la Polynésie française.
+
 #### Titre Ier — Dispositions applicables en Polynésie française
 
 ### Article 69-2
@@ -316,7 +398,7 @@ L'adaptation garantit l'équivalence de protection : l'étranger visé par une m
 
 L'article 69-6 adapte pour la Polynésie française les règles relatives aux bureaux d'aide juridictionnelle et à la désignation des officiers publics ou ministériels. Le I, premier alinéa, attribue la vice-présidence du bureau ou de la section compétent pour les instances devant les juridictions judiciaires de première instance, la cour d'assises ou la cour d'appel au greffier en chef de la cour d'appel, ce qui déroge au premier alinéa de l'article 16. Le second alinéa du I confie la désignation des huissiers de justice membres du bureau au procureur général près la cour d'appel, en lieu et place de leur organisme professionnel (art. 16, dernier alinéa).
 
-Le II adapte les troisième et quatrième alinéas de l'article 25 : l'officier public ou ministériel est désigné ou déchargé par le président de l'organisme professionnel dont il dépend ou, à défaut d'un tel organisme, par le procureur général. La disposition tient compte de l'organisation locale des professions, où l'organisme professionnel prévu par la loi peut faire défaut. La numérotation saute de l'article 69-4 à l'article 69-6, l'article 69-5 ne figurant pas dans la version consolidée.
+Le II adapte les troisième et quatrième alinéas de l'article 25 : l'officier public ou ministériel est désigné ou déchargé par le président de l'organisme professionnel dont il dépend ou, à défaut d'un tel organisme, par le procureur général. La disposition tient compte de l'organisation locale des professions, où l'organisme professionnel prévu par la loi peut faire défaut. L'article 69-5, qui suivait, n'est plus en vigueur depuis le 25 mars 2012 (voir ci-après).
 
 ### Article 69-7
 
@@ -372,6 +454,30 @@ L'article 69-9 permet à la Polynésie française de participer au financement d
 
 #### Titre II — Dispositions applicables à Mayotte
 
+### Article 69-10
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2015-10-16 par LOI n°2015-1268 du 14 octobre 2015 - art. 74)
+
+L'article 69-10 ouvrait, dans la numérotation de la sixième partie, le titre II consacré aux dispositions applicables à Mayotte. Il est abrogé à compter du 16 octobre 2015 par l'article 74 de la loi n° 2015-1268 du 14 octobre 2015 selon la source, qui n'en donne plus le texte. Le titre II comprend aujourd'hui les articles 69-13 à 69-16, qui adaptent à Mayotte certaines dispositions de la loi.
+
+### Article 69-11
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-12-01 par LOI n° 2019-1479 du 28 décembre 2019 - art. 243 (V))
+
+L'article 69-11, inscrit au titre II de la sixième partie (dispositions applicables à Mayotte), est abrogé à compter du 1er décembre 2020 par l'article 243 de la loi n° 2019-1479 du 28 décembre 2019, selon la source. La mention « (V) » signale que la disposition abrogative figure dans la base comme en vigueur. Le contenu de l'article abrogé n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 69-12
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-12-01 par LOI n° 2019-1479 du 28 décembre 2019 - art. 243 (V))
+
+L'article 69-12 a été abrogé en même temps que l'article 69-11, à compter du 1er décembre 2020, par l'article 243 de la loi n° 2019-1479 du 28 décembre 2019. Avec l'abrogation de l'article 69-10, il en résulte le saut de numérotation de l'article 69-9 à l'article 69-13 dans les dispositions ultramarines. Les adaptations applicables à Mayotte figurent désormais aux articles 69-13 à 69-16.
+
 ### Article 69-13
 
 **Texte de la disposition:**
@@ -380,7 +486,7 @@ L'article 69-9 permet à la Polynésie française de participer au financement d
 
 L'article 69-13 adapte pour Mayotte la règle de l'article 13, III, relative aux demandeurs sans domicile. La référence à l'organisme ayant délivré une attestation d'élection de domicile selon le code de l'action sociale et des familles est remplacée par « l'organisme d'accueil choisi par lui ». Le demandeur sans domicile peut donc saisir le bureau dont relève l'organisme d'accueil de son choix, sans attestation formelle.
 
-L'article vise la « deuxième phrase du dernier alinéa de l'article 13 » et cite une référence au « chapitre IV du livre II » du code de l'action sociale et des familles, alors que l'article 13, III, dans sa version consolidée, vise le « chapitre IV du titre VI du livre II » ; cette divergence de citation est un défaut de coordination, sans incidence sur le sens de l'adaptation. La numérotation saute de l'article 69-9 à l'article 69-13, les articles intermédiaires ne figurant pas dans la version consolidée.
+L'article vise la « deuxième phrase du dernier alinéa de l'article 13 » et cite une référence au « chapitre IV du livre II » du code de l'action sociale et des familles, alors que l'article 13, III, dans sa version consolidée, vise le « chapitre IV du titre VI du livre II » ; cette divergence de citation est un défaut de coordination, sans incidence sur le sens de l'adaptation. Les articles 69-10 à 69-12, qui le précèdent dans la numérotation, sont abrogés.
 
 ### Article 69-14
 
@@ -554,6 +660,68 @@ Le II renvoie au même décret les modalités particulières d'application dans 
 
 L'ampleur de ce renvoi montre que la loi fixe les principes et les garanties, tandis que l'essentiel des paramètres opérationnels (montants, barèmes, procédure) relève du règlement. L'interprète de la loi doit donc systématiquement consulter le décret d'application, dont le contenu ne fait pas partie du présent commentaire.
 
+### Article 71
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°71-1130 du 31 décembre 1971 - art. 7 (M)
+
+L'article 71, placé dans la septième partie (dispositions transitoires et diverses), est un article purement modificatif. Selon la source, il a modifié l'article 7 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques ; la mention « (M) » indique que cet article a été modifié depuis. La base LEGI n'attribue pas de période de vigueur à l'article 71, dont l'effet s'est épuisé dans la modification du texte visé ; le droit applicable doit être recherché dans la loi de 1971 telle qu'elle est en vigueur.
+
+### Article 72
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°71-1130 du 31 décembre 1971 - art. 10 (V)
+
+L'article 72 a modifié, selon la source, l'article 10 de la loi n° 71-1130 du 31 décembre 1971, signalé comme en vigueur (« (V) »). Comme l'article 71, il assure la coordination de la loi relative à l'aide juridique avec le statut des professions judiciaires et juridiques. Il n'a pas de contenu normatif autonome dans la version consolidée et n'est reproduit que pour la complétude de la numérotation de la septième partie.
+
+### Article 73
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Ordonnance n°45-2658 du 2 novembre 1945 - art. 18 bis (M)
+>
+> Modifie : Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
+
+L'article 73 a modifié, selon la source, les articles 18 bis et 24 de l'ordonnance n° 45-2658 du 2 novembre 1945, deux dispositions signalées comme modifiées depuis (« (M) »). Il s'agit d'un article de coordination dépourvu de période de vigueur propre dans la base LEGI : la loi de 1991 n'en conserve que la trace de l'opération de modification, la règle résultante appartenant au texte modifié.
+
+### Article 74
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°55-4 du 4 janvier 1955 - art. 3 (V)
+>
+> Modifie : Décret n°78-298 du 9 mars 1978 - art. 1 (Ab)
+>
+> Modifie : Arrêté du 20 novembre 1987 - art. Annexe (V)
+>
+> Modifie : Arrêté du 16 mai 1974 - art. Annexe IV (M)
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 706-14 (M)
+>
+> Modifie : CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
+>
+> Modifie : CODE GENERAL DES IMPOTS, CGI. - art. 1090 A (M)
+>
+> Modifie : CODE GENERAL DES IMPOTS, CGI. - art. 1090 B (V)
+>
+> Modifie : CODE GENERAL DES IMPOTS, CGI. - art. 279 (M)
+>
+> Modifie : Code de la sécurité sociale. - art. L723-4 (Ab)
+
+L'article 74 est le plus étendu des articles modificatifs de la septième partie. Selon la source, il a modifié l'article 3 de la loi n° 55-4 du 4 janvier 1955, l'article 1er du décret n° 78-298 du 9 mars 1978, l'annexe de l'arrêté du 20 novembre 1987 et l'annexe IV de l'arrêté du 16 mai 1974, l'article 706-14 du code de procédure pénale, les articles 279, 1067, 1090 A et 1090 B du code général des impôts et l'article L. 723-4 du code de la sécurité sociale.
+
+La diversité des textes visés — lois, décrets, arrêtés et codes — montre que l'article 74 avait pour objet d'adapter à la réforme de l'aide juridique un ensemble de dispositions dispersées. Les mentions entre parenthèses indiquent l'état actuel de chaque disposition visée dans la base LEGI : en vigueur (« (V) »), modifiée depuis (« (M) ») ou abrogée (« (Ab) »), ce dernier cas concernant notamment l'article 1er du décret de 1978 et l'article L. 723-4 du code de la sécurité sociale. L'article n'a pas de période de vigueur propre et ne régit par lui-même aucune situation.
+
 ### Article 75
 
 **Texte de la disposition:**
@@ -623,3 +791,13 @@ L'article 77 abroge la loi n° 72-11 du 3 janvier 1972 relative à l'aide judici
 > Avant le 1er juillet 1995, le Gouvernement fera un rapport au Parlement sur le bilan des trois premières années d'application de la présente loi. Il adressera au Parlement un rapport intermédiaire avant le 1er juillet 1993.
 
 L'article 78 imposait au Gouvernement de présenter au Parlement un rapport intermédiaire avant le 1er juillet 1993 et un rapport sur le bilan des trois premières années d'application de la loi avant le 1er juillet 1995. Ces obligations, limitées dans le temps, ont épuisé leurs effets. L'article témoigne de la volonté du législateur d'évaluer une réforme qui modifiait profondément le financement de l'accès à la justice ; la mission d'évaluation permanente relève aujourd'hui du Conseil national de l'aide juridique (art. 65), et l'évaluation annuelle des conventions de l'article 64-4 incombe au Gouvernement.
+
+#### Quatrième partie — L'aide à la médiation
+
+### Article 64-5
+
+**Texte de la disposition:**
+
+> (Transféré à compter du 2020-12-31)
+
+L'article 64-5 relevait, selon les intitulés de la source, de la quatrième partie de la loi, consacrée à l'aide à la médiation. La source indique qu'il a été transféré à compter du 31 décembre 2020, sans préciser sa nouvelle place ; la quatrième partie n'a donc plus d'article en vigueur. La rétribution de l'avocat intervenant dans une médiation est aujourd'hui traitée, dans la loi, par l'article 11-1, commenté à sa place. Le commentaire ne reconstitue pas le contenu de l'article transféré.

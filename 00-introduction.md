@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique, examinée article par article — **101 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique, examinée article par article — **122 articles** : les 101 articles en vigueur dans leur rédaction consolidée et 21 articles abrogés, transférés, hors vigueur ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -26,7 +26,7 @@ Le commentaire est réparti en trois chapitres :
 2. Première partie, titres V et VI — effets de l'aide juridictionnelle et retrait (art. 24 à 52-1) ;
 3. Deuxième à septième parties — aide à l'accès au droit, Conseil national de l'aide juridique, financement, outre-mer, dispositions transitoires et diverses (art. 53 à 78).
 
-Les articles qui ne figurent pas dans la version consolidée de la source (notamment les articles 45, 46, 49, 62 à 64-3, 69-5, 69-10 à 69-12 et 71 à 74, ainsi que l'ensemble de la quatrième partie) ne sont pas commentés. Lorsque des articles en vigueur renvoient à des dispositions absentes ou dont la numérotation ne correspond plus au texte consolidé (ainsi les articles 64-4, 69-16 et 76), le commentaire le signale sans reconstituer le contenu des dispositions manquantes.
+Les articles qui n'ont plus de rédaction en vigueur sont reproduits tels que la source les présente, afin que la numérotation soit complète : articles abrogés, transférés ou hors vigueur (45, 46, 49, 62 à 64-3, 64-5 — seul article de la quatrième partie —, 67-1, 69-5 et 69-10 à 69-12), avec la date et, lorsque la source l'indique, le texte d'abrogation, et articles purement modificatifs de la septième partie (71 à 74), avec la mention « a modifié les dispositions suivantes » et la liste des dispositions modifiées. Les mentions entre parenthèses qui suivent ces références (« (V) », « (M) », « (Ab) »…) indiquent, selon les conventions de la base LEGI, l'état actuel de la disposition citée. Ces articles font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu antérieur. Lorsque des articles en vigueur renvoient à des dispositions abrogées ou dont la numérotation ne correspond plus au texte consolidé (ainsi les articles 64-4, 69-16 et 76), le commentaire le signale.
 
 ## Méthode
 
