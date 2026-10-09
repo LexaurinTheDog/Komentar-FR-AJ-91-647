@@ -690,7 +690,7 @@ L'article 72 a modifié, selon la source, l'article 10 de la loi n° 71-1130 du 
 >
 > Modifie : Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
 
-L'article 73 a modifié, selon la source, les articles 18 bis et 24 de l'ordonnance n° 45-2658 du 2 novembre 1945, deux dispositions signalées comme modifiées depuis (« (M) »). Il s'agit d'un article de coordination dépourvu de période de vigueur propre dans la base LEGI : la loi de 1991 n'en conserve que la trace de l'opération de modification, la règle résultante appartenant au texte modifié.
+L'article 73 a modifié, selon la source, les articles 18 bis et 24 de l'ordonnance n° 45-2658 du 2 novembre 1945, deux dispositions signalées comme modifiées depuis (« (M) »). Il s'agit d'un article de coordination dépourvu de période de vigueur propre dans la base LEGI : la loi de 1991 n'en conserve que la trace de l'opération de modification, la règle résultante appartenant au texte modifié, qu'il convient de consulter dans sa rédaction en vigueur.
 
 ### Article 74
 
